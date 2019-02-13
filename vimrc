@@ -7,8 +7,6 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 endif
 
 call plug#begin('~/.vim/plugged')
-Plug 'Sheco/vim-settings'
-
 " tpope's vinegar improves the vim file manager
 " the most common shortcut is - you can use it to jump back
 " to the current file's directory and then parent directories
