@@ -1,1 +1,1 @@
-source text.vim
+runtime text.vim
