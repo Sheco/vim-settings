@@ -5,7 +5,7 @@ It **needs** vim 8.x, because the packages feature was introduced in that versio
 Cloning this repository into ```~/.vim``` will set vim up the way I like it.
 
 ```
-$ git clone https://www.github.com/Sheco/vim-settings ~/.vim
+$ git clone --recursive https://www.github.com/Sheco/vim-settings ~/.vim
 ```
 
 Let it download some plugins, it might take a minute, after that, it's completely ready.
