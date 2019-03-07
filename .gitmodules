@@ -1,0 +1,48 @@
+[submodule "pack/plugins/start/vim-eunuch"]
+	path = pack/plugins/start/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch
+[submodule "pack/plugins/start/vim-sensible"]
+	path = pack/plugins/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "pack/plugins/start/vim-vinegar"]
+	path = pack/plugins/start/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar
+[submodule "pack/plugins/start/vim-surround"]
+	path = pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/plugins/start/vim-fugitive"]
+	path = pack/plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/plugins/start/vim-signature"]
+	path = pack/plugins/start/vim-signature
+	url = https://github.com/kshenoy/vim-signature
+[submodule "pack/plugins/start/vim-airline"]
+	path = pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/plugins/start/emmet-vim"]
+	path = pack/plugins/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/w0rp/ale
+[submodule "pack/plugins/start/vim-mustache-handlebars"]
+	path = pack/plugins/start/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars
+[submodule "pack/plugins/start/vim-polyglot"]
+	path = pack/plugins/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "pack/plugins/start/terminus"]
+	path = pack/plugins/start/terminus
+	url = https://github.com/wincent/terminus
+[submodule "pack/plugins/start/nova-vim"]
+	path = pack/plugins/start/nova-vim
+	url = https://github.com/trevordmiller/nova-vim
+[submodule "pack/plugins/start/fzf.vim"]
+	path = pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "pack/plugins/start/bufexplorer"]
+	path = pack/plugins/start/bufexplorer
+	url = https://github.com/jlanzarotta/bufexplorer
+[submodule "pack/plugins/start/vim-settings"]
+	path = pack/plugins/start/vim-settings
+	url = https://github.com/sheco/vim-settings
