@@ -1,4 +1,4 @@
-let mapleader = ',' 
+"let mapleader = ',' 
 
 " my favorite tabs are 4 spaces
 set shiftwidth=4
