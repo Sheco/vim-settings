@@ -6,14 +6,6 @@ set softtabstop=4
 set tabstop=4
 set expandtab
 
-" I commented these out because, I didn't feel completely comfortable with
-" them
-" avoid wordwrapping and show a vertical line at column 80
-"set wrap
-"set virtualedit=all
-"set linebreak
-set colorcolumn=80
-
 " hidden buffers, you can switch between files and the changes don't
 " have to be written to disk until you're ready to save everything
 " you want to use :wa for that
