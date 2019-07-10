@@ -46,3 +46,6 @@
 [submodule "pack/plugins/start/easymotion"]
 	path = pack/plugins/start/easymotion
 	url = https://github.com/easymotion/vim-easymotion
+[submodule "pack/plugins/start/papercolor-theme"]
+	path = pack/plugins/start/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme

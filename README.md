@@ -21,6 +21,11 @@ $ git submodule update --recursive --remote
 
 Most of the power introduced to vim in this repository comes from vim-plugins, a reference to these can be found at [pack/plugins/start](pack/plugins/start), each plugin has its own strengths and needs to be studied individually.
 
+To update the plugins, run:
+
+```
+git pull --recurse-submodules
+```
 
 # ALE
 
