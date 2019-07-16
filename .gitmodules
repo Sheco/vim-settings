@@ -4,9 +4,6 @@
 [submodule "pack/plugins/start/vim-sensible"]
 	path = pack/plugins/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible
-[submodule "pack/plugins/start/vim-vinegar"]
-	path = pack/plugins/start/vim-vinegar
-	url = https://github.com/tpope/vim-vinegar
 [submodule "pack/plugins/start/vim-surround"]
 	path = pack/plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround
@@ -49,3 +46,6 @@
 [submodule "pack/plugins/start/papercolor-theme"]
 	path = pack/plugins/start/papercolor-theme
 	url = https://github.com/NLKNguyen/papercolor-theme
+[submodule "pack/plugins/start/ranger"]
+	path = pack/plugins/start/ranger
+	url = https://github.com/francoiscabrol/ranger.vim

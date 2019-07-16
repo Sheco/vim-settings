@@ -14,18 +14,12 @@ Let it download some plugins, it might take a minute, after that, it's completel
 The plugins can be updated with the next sentence:
 
 ```
-$ git submodule update --recursive --remote
+$ git pull --recurse-submodules
 ```
 
 # Plugins
 
 Most of the power introduced to vim in this repository comes from vim-plugins, a reference to these can be found at [pack/plugins/start](pack/plugins/start), each plugin has its own strengths and needs to be studied individually.
-
-To update the plugins, run:
-
-```
-git pull --recurse-submodules
-```
 
 # ALE
 

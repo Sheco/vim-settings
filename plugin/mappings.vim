@@ -23,3 +23,5 @@ nnoremap <silent> <PageDown> 1000<C-D>
 " <leader>u removes marks, useful when you want to copy text
 " but there are marks on the left side
 noremap <silent> <leader>u :sign unplace *<CR>
+
+nmap - <Leader>f<CR>
