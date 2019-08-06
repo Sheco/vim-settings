@@ -4,6 +4,7 @@
 [submodule "pack/plugins/start/vim-sensible"]
 	path = pack/plugins/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible
+	branch = master
 [submodule "pack/plugins/start/vim-surround"]
 	path = pack/plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround
@@ -52,3 +53,5 @@
 [submodule "pack/plugins/start/vim-obsession"]
 	path = pack/plugins/start/vim-obsession
 	url = https://github.com/tpope/vim-obsession
+[submodule "vim-sensible"]
+	branch = master
