@@ -56,3 +56,6 @@
 	branch = master
 [submodule "vim-sensible"]
 	branch = master
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf.git
