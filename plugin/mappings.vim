@@ -10,7 +10,7 @@ nmap <Leader>, <C-W><C-W>
 nmap <Leader>c <C-W>c
 
 " Control-P will load the fuzzy file finder
-nmap <C-P> :FZF<cr>
+nmap <C-P> :Files<cr>
 
 " Control-B will load the buffexplorer
 nmap <C-B> :Buffers<cr>
