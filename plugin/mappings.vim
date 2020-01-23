@@ -24,4 +24,3 @@ nnoremap <silent> <PageDown> 1000<C-D>
 " but there are marks on the left side
 noremap <silent> <leader>u :sign unplace *<CR>
 
-nmap - <Leader>f<CR>
