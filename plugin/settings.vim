@@ -33,7 +33,4 @@ augroup END
 
 " I like dark color schemes
 set background=dark
-try
-    colorscheme nova
-catch
-endtry
+colorscheme solarized
