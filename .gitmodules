@@ -38,9 +38,6 @@
 [submodule "pack/plugins/start/fzf.vim"]
 	path = pack/plugins/start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
-[submodule "pack/plugins/start/bufexplorer"]
-	path = pack/plugins/start/bufexplorer
-	url = https://github.com/jlanzarotta/bufexplorer
 [submodule "pack/plugins/start/easymotion"]
 	path = pack/plugins/start/easymotion
 	url = https://github.com/easymotion/vim-easymotion

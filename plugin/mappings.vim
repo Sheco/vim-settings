@@ -13,7 +13,7 @@ nmap <Leader>c <C-W>c
 nmap <C-P> :FZF<cr>
 
 " Control-B will load the buffexplorer
-nmap <C-B> <Leader>be
+nmap <C-B> :Buffers<cr>
 
 set nostartofline
 nnoremap <silent> <PageUp> 1000<C-U>
