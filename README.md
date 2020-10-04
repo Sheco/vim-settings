@@ -30,3 +30,14 @@ For example, for javascript I use ```standard```, which is installed with:
 ```
 $ npm install --global standard
 ```
+
+
+# Conqueror of Completion
+
+I am currently using vim-coc, the first time, it needs to execute `yarn install`, it `yarn` has to be installed beforehand, in Debian 10, it's in the `yarnpkg` package and it installs a `yarnpkg` executable, you might need to create a symlink from `yarnpkg` to `yarn`, or install it using the official source.
+
+You will also need to install your languages' extensions, for example:
+
+```
+:CocInstall coc-phpls coc-tsserver coc-go coc-python
+```
