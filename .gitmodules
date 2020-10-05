@@ -62,3 +62,6 @@
 [submodule "pack/plugins/start/vim-vinegar"]
 	path = pack/plugins/start/vim-vinegar
 	url = https://github.com/tpope/vim-vinegar.git
+[submodule "pack/plugins/start/vim-code-dark"]
+	path = pack/plugins/start/vim-code-dark
+	url = https://github.com/tomasiser/vim-code-dark

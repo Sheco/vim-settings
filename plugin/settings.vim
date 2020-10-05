@@ -33,4 +33,4 @@ augroup END
 
 " I like dark color schemes
 set background=dark
-colorscheme solarized
+colorscheme codedark
