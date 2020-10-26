@@ -39,5 +39,5 @@ I am currently using vim-coc, the first time, it needs to execute `yarn install`
 You will also need to install your languages' extensions, for example:
 
 ```
-:CocInstall coc-phpls coc-tsserver coc-go coc-python
+:CocInstall coc-phpls coc-tsserver coc-python
 ```
