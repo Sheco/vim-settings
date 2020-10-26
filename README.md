@@ -11,10 +11,10 @@ $ git clone --recursive https://www.github.com/Sheco/vim-settings ~/.vim
 Let it download some plugins, it might take a minute, after that, it's completely ready.
 
 
-The plugins can be updated with the next sentence:
+The first time this repo is cloned, the plugins can installed with the next sentence:
 
 ```
-$ git pull --recurse-submodules
+$ git submodule update --init
 ```
 
 # Plugins
