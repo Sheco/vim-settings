@@ -32,5 +32,6 @@ augroup autosourcing
 augroup END
 
 " I like dark color schemes
+let g:airline_theme = 'codedark'
 set background=dark
 colorscheme codedark
