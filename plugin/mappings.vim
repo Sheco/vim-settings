@@ -16,11 +16,11 @@ nmap <C-P> :Files<cr>
 nmap <C-B> :Buffers<cr>
 
 set nostartofline
+
+" Make page up and page down smarter...  without this, 
+" paging in one direction and then going back in the
+" other direction leads to having the cursor in a 
+" different possition which can be confusing
 nnoremap <silent> <PageUp> 1000<C-U>
 nnoremap <silent> <PageDown> 1000<C-D>
-
-
-" <leader>u removes marks, useful when you want to copy text
-" but there are marks on the left side
-noremap <silent> <leader>u :sign unplace *<CR>
 

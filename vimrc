@@ -4,11 +4,16 @@ let g:coc_disable_startup_warning = 1
 
 :set directory=~/.vim/swapfiles//
 
-" When editing a file, always jump to the last known cursor position.
-" Don't do it when the position is invalid, when inside an event handler
-" (happens when dropping a file on gvim) and for a commit message (it's
-" likely a different one than last time).
-autocmd BufReadPost *
-  \ if line("'\"") >= 1 && line("'\"") <= line("$") && &ft !~# 'commit'
-  \ |   exe "normal! g`\""
-  \ | endif
+set number
+nnoremap <Leader>s :set number!<CR>:call ToggleSignColumn()<CR>
+
+" Toggle signcolumn. Works only on vim>=8.0 or NeoVim
+function! ToggleSignColumn()
+    if !exists("b:signcolumn_on") || b:signcolumn_on
+        set signcolumn=no
+        let b:signcolumn_on=0
+    else
+        set signcolumn=auto
+        let b:signcolumn_on=1
+    endif
+endfunction

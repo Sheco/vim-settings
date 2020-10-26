@@ -65,3 +65,6 @@
 [submodule "pack/plugins/start/vim-code-dark"]
 	path = pack/plugins/start/vim-code-dark
 	url = https://github.com/tomasiser/vim-code-dark
+[submodule "pack/plugins/start/vim-go"]
+	path = pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
