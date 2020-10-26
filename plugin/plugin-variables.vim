@@ -10,3 +10,8 @@ let g:ale_fixers = {'javascript': ['standard'], 'html': ['prettier']}
 
 let g:ale_completion_enabled = 0
 
+
+let g:CtrlSpaceLoadLastWorkspaceOnStart = 1
+let g:CtrlSpaceSaveWorkspaceOnSwitch = 1
+let g:CtrlSpaceSaveWorkspaceOnExit = 1
+let g:CtrlSpaceUseArrowsInTerm = 1

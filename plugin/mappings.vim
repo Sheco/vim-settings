@@ -9,12 +9,8 @@ nmap <Leader>, <C-W><C-W>
 " ,c will close the current window
 nmap <Leader>c <C-W>c
 
-" Control-P will load the fuzzy file finder
-nmap <C-P> :Files<cr>
-
-" Control-B will load the buffexplorer
-nmap <C-B> :Buffers<cr>
-
+nmap <C-B> :CtrlSpace h<cr>
+nmap <C-P> :CtrlSpace o<cr>
 set nostartofline
 
 " Make page up and page down smarter...  without this, 

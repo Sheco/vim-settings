@@ -35,9 +35,6 @@
 [submodule "pack/plugins/start/nova-vim"]
 	path = pack/plugins/start/nova-vim
 	url = https://github.com/trevordmiller/nova-vim
-[submodule "pack/plugins/start/fzf.vim"]
-	path = pack/plugins/start/fzf.vim
-	url = https://github.com/junegunn/fzf.vim
 [submodule "pack/plugins/start/easymotion"]
 	path = pack/plugins/start/easymotion
 	url = https://github.com/easymotion/vim-easymotion
@@ -47,12 +44,6 @@
 [submodule "pack/plugins/start/ranger"]
 	path = pack/plugins/start/ranger
 	url = https://github.com/francoiscabrol/ranger.vim
-[submodule "pack/plugins/start/vim-obsession"]
-	path = pack/plugins/start/vim-obsession
-	url = https://github.com/tpope/vim-obsession
-[submodule "pack/plugins/start/fzf"]
-	path = pack/plugins/start/fzf
-	url = https://github.com/junegunn/fzf.git
 [submodule "pack/plugins/start/vim-colors-solarized"]
 	path = pack/plugins/start/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized
@@ -68,3 +59,6 @@
 [submodule "pack/plugins/start/vim-go"]
 	path = pack/plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "pack/plugins/start/vim-ctrlspace"]
+	path = pack/plugins/start/vim-ctrlspace
+	url = https://github.com/vim-ctrlspace/vim-ctrlspace
