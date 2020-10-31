@@ -9,8 +9,8 @@ nmap <Leader>, <C-W><C-W>
 " ,c will close the current window
 nmap <Leader>c <C-W>c
 
-nmap <C-B> :CtrlSpace h<cr>
-nmap <C-P> :CtrlSpace o<cr>
+nmap <C-B> :Buffers<cr>
+nmap <C-P> :Files<cr>
 set nostartofline
 
 " Make page up and page down smarter...  without this, 

@@ -56,6 +56,15 @@
 [submodule "pack/plugins/start/vim-go"]
 	path = pack/plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "pack/plugins/start/vim-ctrlspace"]
-	path = pack/plugins/start/vim-ctrlspace
-	url = https://github.com/vim-ctrlspace/vim-ctrlspace
+[submodule "pack/plugins/start/vim-obsession"]
+	path = pack/plugins/start/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+[submodule "pack/plugins/start/vim-prosession"]
+	path = pack/plugins/start/vim-prosession
+	url = https://github.com/dhruvasagar/vim-prosession.git
+[submodule "pack/plugins/start/fzf.vim"]
+	path = pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = https://github.com/junegunn/fzf
