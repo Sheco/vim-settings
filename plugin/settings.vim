@@ -21,10 +21,6 @@ let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 set splitbelow
 set splitright
 
-" the default updatetime of 4000 is too long for some tools
-" like gitgutter
-set updatetime=400
-
 "--- autocommands
 augroup autosourcing
 	autocmd!
