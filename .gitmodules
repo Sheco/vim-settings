@@ -68,3 +68,6 @@
 [submodule "pack/plugins/start/fzf"]
 	path = pack/plugins/start/fzf
 	url = https://github.com/junegunn/fzf
+[submodule "pack/plugins/start/tabular"]
+	path = pack/plugins/start/tabular
+	url = https://github.com/godlygeek/tabular
