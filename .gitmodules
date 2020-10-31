@@ -71,3 +71,6 @@
 [submodule "pack/plugins/start/tabular"]
 	path = pack/plugins/start/tabular
 	url = https://github.com/godlygeek/tabular
+[submodule "pack/plugins/start/tig-explorer"]
+	path = pack/plugins/start/tig-explorer
+	url = https://github.com/iberianpig/tig-explorer.vim

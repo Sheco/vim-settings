@@ -5,7 +5,7 @@ let g:coc_disable_startup_warning = 1
 :set directory=~/.vim/swapfiles//
 
 set number
-nnoremap <Leader>s :set number!<CR>:call ToggleSignColumn()<CR>
+nnoremap <Leader>a :set number!<CR>:call ToggleSignColumn()<CR>
 
 " Toggle signcolumn. Works only on vim>=8.0 or NeoVim
 function! ToggleSignColumn()
