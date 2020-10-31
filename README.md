@@ -10,13 +10,6 @@ $ git clone --recursive https://www.github.com/Sheco/vim-settings ~/.vim
 
 Let it download some plugins, it might take a minute, after that, it's completely ready.
 
-
-The first time this repo is cloned, the plugins can installed with the next sentence:
-
-```
-$ git submodule update --init
-```
-
 # Plugins
 
 Most of the power introduced to vim in this repository comes from vim-plugins, a reference to these can be found at [pack/plugins/start](pack/plugins/start), each plugin has its own strengths and needs to be studied individually.
